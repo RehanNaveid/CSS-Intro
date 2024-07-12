@@ -1,0 +1,41 @@
+body{
+    margin:auto;
+    padding:20px;
+    color: rgb(156, 149, 149);
+}
+
+
+.container{
+    justify-content: center;
+    background-color: beige;
+    padding: 40px 40px 10px 40px;
+    margin: auto;
+    height: 60vh;
+    width: 60vh;
+    position: relative;
+}
+
+.image{
+    padding:30px 10px;
+    background-color: #F9F9Fb;
+}
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40vh; 
+    width: 80%;   
+}
+
+.quotes-al{
+   padding: 10px 1px;
+   text-align: center;
+}
+
+em{
+    position:absolute;
+    bottom:8px;
+    right:8px;
+}

@@ -1,0 +1,29 @@
+.container {
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+/* block element -> background-color: lightcoral */
+.block-element{
+    display: block;
+    padding: 10px;
+    margin:5px 0px;
+    background-color: lightcoral ;
+}
+
+/* inline element -> background-color: lightgreen */
+.inline-element{
+    display: inline;
+    padding: 11px;
+    margin:5px 10px 5px 0px;
+    background-color: lightgreen;
+}
+/* inline block element -> background-color: lightblue */
+.inline-block-element{
+    display: inline-block;
+    padding: 10px;
+    margin: 5px 0px;
+    background-color: lightblue;
+}
